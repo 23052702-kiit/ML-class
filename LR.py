@@ -1,3 +1,4 @@
+#Linear regression without moduless
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -24,3 +25,4 @@ plt.show()
 print("Slope m =", m)
 print("Intercept c =", c)
 print("Predicted values =", y_pred)
+
